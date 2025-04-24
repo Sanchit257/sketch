@@ -25,4 +25,17 @@
     height: 32px;
     border: 1px solid #ccc;
   }
+
+  div:hover {
+    color: rgb(255,255,255);
+  }
+
+  #resetButton {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  
   
