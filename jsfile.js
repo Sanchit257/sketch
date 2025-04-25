@@ -33,4 +33,3 @@ resetButton.addEventListener('click', () => {
     square.style.backgroundColor = 'white'; // or any default color you want
   });
 });
-
